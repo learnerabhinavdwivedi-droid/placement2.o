@@ -1,7 +1,5 @@
 streamlit
-numpy
-joblib
 pandas
+joblib
 pdfplumber
-scikit-learn
 openai
